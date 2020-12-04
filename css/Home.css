@@ -1,0 +1,39 @@
+nav {
+  text-align: center;
+  font-size: xx-large;
+}
+.image{
+  float: left;
+}
+.list{
+  float: right;
+  width: 50%;
+  line-height: 100%;
+  font-size: x-large;
+}
+body {
+  position: relative;
+  background-color: #98acf8;
+}
+button {
+  height: 30px;
+  width: 70px;
+}
+img {
+  height: 650px;
+  width: auto;
+}
+header{
+  height: 60px;
+}
+span{
+  font-weight: bolder;
+  color: red;
+}
+.list a {
+  color: red;
+}
+* {
+  border: 1px solid #98acf8;
+  margin: none;
+}

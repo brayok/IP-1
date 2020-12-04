@@ -1,0 +1,33 @@
+.container .image {
+  float: left;
+  height: 10%;
+}
+body {
+  position: relative;
+  background-color: #98acf8;
+}
+nav {
+  font-weight: bolder;
+  text-align: center;
+}
+h2 {
+  font-weight: bold;
+  color: red;
+}
+.container .Hobbies{
+  float: right;
+  width: 45%;
+  font-size: x-large;
+  line-height: 60px;
+}
+header{
+  height: 40px;
+}
+button {
+  height: 30px;
+  width: 70px;
+}
+* {
+  border: 1px solid #98acf8;
+  margin: 1px;
+}
