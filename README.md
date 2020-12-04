@@ -16,7 +16,9 @@
 {The website has been built with pure HTML and CSS only.}
 ## Support and contact details
 {Incase of any difficulty of access to the Brian Munyinyi Website contact the author through email at (selaciak@gmail.com)}
+## (link to gh pages-https://brayok.github.io/Independent-Project/)
 ### License
 {MIT License
 
 Copyright (c) 2020 Brian Munyinyi Kamau}
+## {Author- Brian Munyinyi Kamau.}
